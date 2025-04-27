@@ -4,4 +4,4 @@ jupyterlab
 nbformat
 nbconvert
 black
-
+black[jupyter]
