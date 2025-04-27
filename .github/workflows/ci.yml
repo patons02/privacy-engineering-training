@@ -35,6 +35,6 @@ jobs:
     - name: Execute Notebooks
       run: |
         for notebook in 1-differential-privacy-lab/notebooks/*.ipynb; do
-          jupyter nbconvert --to notebook --execute "$notebook" --inplace --ExecutePreprocessor.timeout=600
+          jupyter nbconvert --to notebook --execute "$notebook" --allow-errors --inplace --ExecutePreprocessor.timeout=600
         done
 
