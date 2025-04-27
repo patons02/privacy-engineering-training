@@ -6,7 +6,7 @@
 [![Build Status](https://github.com/YOUR-USERNAME/differential-privacy-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/differential-privacy-lab/actions)
 
 ---
-**Built by Stu**
+**Built by patons02**
 
 Welcome to the Differential Privacy Lab — a hands-on, self-paced tutorial to master Differential Privacy concepts and techniques.
 
@@ -34,7 +34,7 @@ This repository provides:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YOUR-USERNAME/differential-privacy-lab.git
+    git clone https://github.com/patons02/differential-privacy-lab.git
     cd differential-privacy-lab
     ```
 
