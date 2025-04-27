@@ -6,7 +6,7 @@
 [![Build Status](https://github.com/YOUR-USERNAME/differential-privacy-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/differential-privacy-lab/actions)
 
 ---
-**Built by Stu**
+**Built by patons02**
 
 Welcome to the Differential Privacy Lab — a hands-on, self-paced tutorial to master Differential Privacy concepts and techniques.
 
