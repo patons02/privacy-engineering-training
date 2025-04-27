@@ -12,6 +12,7 @@ window.onload = function() {
     fetch("/register_user/", {
         method: "POST"
     });
+    setInterval(updateResults, 5000); // Auto-refresh every 5 seconds
 }
 
 // Send event with Local DP applied
