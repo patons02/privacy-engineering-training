@@ -34,7 +34,7 @@ This repository provides:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YOUR-USERNAME/differential-privacy-lab.git
+    git clone https://github.com/patons02/differential-privacy-lab.git
     cd differential-privacy-lab
     ```
 
