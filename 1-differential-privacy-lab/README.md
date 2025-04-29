@@ -1,4 +1,4 @@
-I'm# Differential Privacy Lab
+# Differential Privacy Lab
 
 ![Built by patons02](https://img.shields.io/badge/Built%20by-patons02-brightgreen)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
