@@ -3,7 +3,6 @@ I'm# Differential Privacy Lab
 ![Built by patons02](https://img.shields.io/badge/Built%20by-patons02-brightgreen)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-Restricted-lightgrey)](LICENSE)
-[![Build Status](https://github.com/YOUR-USERNAME/differential-privacy-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/differential-privacy-lab/actions)
 
 ---
 **Built by patons02**
