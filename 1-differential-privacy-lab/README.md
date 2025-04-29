@@ -1,4 +1,4 @@
-# Differential Privacy Lab
+I'm# Differential Privacy Lab
 
 ![Built by patons02](https://img.shields.io/badge/Built%20by-patons02-brightgreen)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
@@ -65,11 +65,28 @@ This repository provides:
 
 ---
 
-## 🔖 Important
+## Repository Structure
 
-- Certificates must be counter-signed by Stu before any LinkedIn/public use.
-- Redistribution, resale, or issuing certificates without Stu's approval is strictly prohibited.
-- Commercial usage of any material without explicit permission is forbidden.
+| Folder | Description |
+|:-------|:------------|
+| `notebooks/` | All tutorial notebooks (exercises + examples) |
+| `solutions/` | Full solutions to exercises |
+| `datasets/` | Toy and realistic sample datasets |
+| `.github/workflows/` | GitHub Actions for automatic linting |
+| `Makefile` | Quick launcher and linter |
+
+---
+
+## Developer Workflow
+
+- Format code and notebooks:
+  ```bash
+  make lint
+  ```
+- Launch JupyterLab server:
+  ```bash
+  make launch
+  ```
 
 ---
 
