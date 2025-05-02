@@ -1,0 +1,7 @@
+numpy
+pytest
+jupyterlab
+nbformat
+nbconvert
+black
+black[jupyter]
